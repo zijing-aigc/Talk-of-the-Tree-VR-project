@@ -10,3 +10,5 @@ Object Spawning System: Continuously generate different object types (e.g., nutr
 Collision-Based Feedback (Nutrients & Stones): Trigger distinct visual and audio responses upon collision, such as color shifts, particle energy trails, or warning sounds.
 
 Guided Nutrient Interaction System: Use color (e.g., red = harmful, blue = nutrient) and subtle narration cues to guide user decisions and interactions intuitively.
+
+
